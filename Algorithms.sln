@@ -37,7 +37,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumTwoNumsInLinkedLists", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestSubstringWithoutRepeatingCharacters", "LongestSubstringWithoutRepeatingCharacters\LongestSubstringWithoutRepeatingCharacters.csproj", "{485CB771-7A8D-4A28-93C5-4BF4EDF58A1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInt32", "ReverseInt32\ReverseInt32.csproj", "{848161CD-CA18-4CE4-8E3C-FA6DE49AE42D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseInt32", "ReverseInt32\ReverseInt32.csproj", "{848161CD-CA18-4CE4-8E3C-FA6DE49AE42D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNthNodeLinkedList", "RemoveNthNodeLinkedList\RemoveNthNodeLinkedList.csproj", "{1FF217C3-90BF-4E22-99D0-C93990A7E4A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindAllQuadrupletsThatSumTo", "FindAllQuadrupletsThatSumTo\FindAllQuadrupletsThatSumTo.csproj", "{A313B302-80C5-461C-93F9-120E2E1ABD7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{B535717D-D10E-4C2A-9D06-B3D091DA6815}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +123,18 @@ Global
 		{848161CD-CA18-4CE4-8E3C-FA6DE49AE42D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{848161CD-CA18-4CE4-8E3C-FA6DE49AE42D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{848161CD-CA18-4CE4-8E3C-FA6DE49AE42D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF217C3-90BF-4E22-99D0-C93990A7E4A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF217C3-90BF-4E22-99D0-C93990A7E4A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF217C3-90BF-4E22-99D0-C93990A7E4A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF217C3-90BF-4E22-99D0-C93990A7E4A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A313B302-80C5-461C-93F9-120E2E1ABD7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A313B302-80C5-461C-93F9-120E2E1ABD7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A313B302-80C5-461C-93F9-120E2E1ABD7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A313B302-80C5-461C-93F9-120E2E1ABD7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B535717D-D10E-4C2A-9D06-B3D091DA6815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B535717D-D10E-4C2A-9D06-B3D091DA6815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B535717D-D10E-4C2A-9D06-B3D091DA6815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B535717D-D10E-4C2A-9D06-B3D091DA6815}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
