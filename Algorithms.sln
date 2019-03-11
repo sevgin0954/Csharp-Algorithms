@@ -45,11 +45,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindAllQuadrupletsThatSumTo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{B535717D-D10E-4C2A-9D06-B3D091DA6815}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateParentheses", "ValidateParentheses\ValidateParentheses.csproj", "{574B3EBC-5866-4FE6-A95B-1F44BB2E00FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidateParentheses", "ValidateParentheses\ValidateParentheses.csproj", "{574B3EBC-5866-4FE6-A95B-1F44BB2E00FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPalindrome", "IsPalindrome\IsPalindrome.csproj", "{DA82440C-5196-43FF-9BD2-F5F7F3745222}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsPalindrome", "IsPalindrome\IsPalindrome.csproj", "{DA82440C-5196-43FF-9BD2-F5F7F3745222}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateParentheses", "GenerateParentheses\GenerateParentheses.csproj", "{E5CCD936-EC6B-41A0-B4DE-DD27EB153C97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenerateParentheses", "GenerateParentheses\GenerateParentheses.csproj", "{E5CCD936-EC6B-41A0-B4DE-DD27EB153C97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateMatrix", "RotateMatrix\RotateMatrix.csproj", "{845B1265-452F-4A99-AC67-DF604617D076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pow(x, n)", "Pow(x, n)\Pow(x, n).csproj", "{54853566-E300-4D22-BCB9-EF646518C2A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +157,14 @@ Global
 		{E5CCD936-EC6B-41A0-B4DE-DD27EB153C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5CCD936-EC6B-41A0-B4DE-DD27EB153C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5CCD936-EC6B-41A0-B4DE-DD27EB153C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845B1265-452F-4A99-AC67-DF604617D076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845B1265-452F-4A99-AC67-DF604617D076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845B1265-452F-4A99-AC67-DF604617D076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845B1265-452F-4A99-AC67-DF604617D076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54853566-E300-4D22-BCB9-EF646518C2A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54853566-E300-4D22-BCB9-EF646518C2A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54853566-E300-4D22-BCB9-EF646518C2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54853566-E300-4D22-BCB9-EF646518C2A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
