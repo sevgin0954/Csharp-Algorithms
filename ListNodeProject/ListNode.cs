@@ -1,4 +1,5 @@
 ﻿using System.Linq;
+using System.Text;
 
 public class ListNode
 {
@@ -18,5 +19,19 @@ public class ListNode
         {
             this.next = new ListNode(nums.Skip(1).ToArray());
         }
+    }
+
+    public override string ToString()
+    {
+        StringBuilder result = new StringBuilder();
+
+        ListNode currentNode = this;
+        while (currentNode != null)
+        {
+            result.Append(currentNode.val);
+            currentNode = currentNode.next;
+        }
+
+        return result.ToString();
     }
 }

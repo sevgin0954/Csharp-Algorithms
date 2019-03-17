@@ -51,9 +51,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsPalindrome", "IsPalindrom
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenerateParentheses", "GenerateParentheses\GenerateParentheses.csproj", "{E5CCD936-EC6B-41A0-B4DE-DD27EB153C97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateMatrix", "RotateMatrix\RotateMatrix.csproj", "{845B1265-452F-4A99-AC67-DF604617D076}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RotateMatrix", "RotateMatrix\RotateMatrix.csproj", "{845B1265-452F-4A99-AC67-DF604617D076}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pow(x, n)", "Pow(x, n)\Pow(x, n).csproj", "{54853566-E300-4D22-BCB9-EF646518C2A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pow(x, n)", "Pow(x, n)\Pow(x, n).csproj", "{54853566-E300-4D22-BCB9-EF646518C2A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestPalindromicSubstring", "LongestPalindromicSubstring\LongestPalindromicSubstring.csproj", "{91D5072C-AA0B-4687-983A-445C211A464A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZigZagConversion", "ZigZagConversion\ZigZagConversion.csproj", "{BC978414-FC36-4A0C-B9E9-3AFF235C4F47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringToInteger(atoi)", "StringToInteger(atoi)\StringToInteger(atoi).csproj", "{74E60329-65FB-4176-A4EC-B0B48645AF3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedLists", "MergeTwoSortedLists\MergeTwoSortedLists.csproj", "{7F8F7823-B584-4A04-ADFC-8EEDD168D5E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListNodeProject", "ListNodeProject\ListNodeProject.csproj", "{4710F31B-8019-497A-8ABB-0CC68F72FA79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +175,26 @@ Global
 		{54853566-E300-4D22-BCB9-EF646518C2A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54853566-E300-4D22-BCB9-EF646518C2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54853566-E300-4D22-BCB9-EF646518C2A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D5072C-AA0B-4687-983A-445C211A464A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D5072C-AA0B-4687-983A-445C211A464A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D5072C-AA0B-4687-983A-445C211A464A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D5072C-AA0B-4687-983A-445C211A464A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC978414-FC36-4A0C-B9E9-3AFF235C4F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC978414-FC36-4A0C-B9E9-3AFF235C4F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC978414-FC36-4A0C-B9E9-3AFF235C4F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC978414-FC36-4A0C-B9E9-3AFF235C4F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E60329-65FB-4176-A4EC-B0B48645AF3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E60329-65FB-4176-A4EC-B0B48645AF3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E60329-65FB-4176-A4EC-B0B48645AF3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E60329-65FB-4176-A4EC-B0B48645AF3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F8F7823-B584-4A04-ADFC-8EEDD168D5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8F7823-B584-4A04-ADFC-8EEDD168D5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8F7823-B584-4A04-ADFC-8EEDD168D5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F8F7823-B584-4A04-ADFC-8EEDD168D5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4710F31B-8019-497A-8ABB-0CC68F72FA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4710F31B-8019-497A-8ABB-0CC68F72FA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4710F31B-8019-497A-8ABB-0CC68F72FA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4710F31B-8019-497A-8ABB-0CC68F72FA79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
